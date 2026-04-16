@@ -1,20 +1,26 @@
-# 📘 Dicionário de IA Generativa
+📘 Dicionário de IA Generativa (Python)
 
-Este projeto é um **mini dicionário interativo em Python** que explica conceitos, ferramentas e termos técnicos relacionados a **Inteligência Artificial Generativa**.  
-Ele roda no terminal e permite que o usuário escolha uma categoria e consulte descrições de forma simples.
+Projeto desenvolvido com o objetivo de consolidar conceitos fundamentais de Inteligência Artificial Generativa através de uma aplicação interativa em Python.
 
----
+A aplicação simula um dicionário técnico, permitindo ao usuário consultar definições de conceitos, ferramentas e termos amplamente utilizados no ecossistema de IA.
 
-## 🚀 Funcionalidades
+🎯 Objetivo
 
-- Menu interativo com três categorias:
-  - **Conceitos Gerativos** (ex: Modelos de Linguagem, Diffusion, Prompt Engineering)
-  - **Ferramentas AWS** (ex: Amazon Bedrock, Amazon Titan, AWS Trainium)
-  - **Termos Técnicos** (ex: Token, Fine-tuning, Dataset)
-- Retorna a descrição correta para cada termo.
-- Tratamento de entradas inválidas.
-- Estrutura organizada usando **dicionários Python**.
+Demonstrar, na prática:
 
----
-
-## 📂 Estrutura do Projeto
+organização de dados com estruturas nativas do Python
+construção de aplicações interativas no terminal
+aplicação de lógica condicional e tratamento de entradas
+entendimento conceitual de IA generativa
+🚀 Funcionalidades
+Menu interativo via terminal
+Consulta por categorias:
+Conceitos de IA Generativa
+Ferramentas AWS
+Termos técnicos
+Retorno dinâmico de descrições
+Validação de entradas do usuário
+🛠️ Tecnologias utilizadas
+Python
+Estruturas de dados (dicionários)
+Lógica de programação
